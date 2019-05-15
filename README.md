@@ -1,4 +1,5 @@
 ## codeFront: Demo
-Demo deployment of codefront,
+Demo deployments of codefront:
+* [Evaluation 1](./eval1)
 * [Evaluation 2](./eval2)
 
